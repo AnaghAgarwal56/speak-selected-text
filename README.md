@@ -14,9 +14,10 @@ A simple Python tool that reads aloud any selected text on your screen using a n
 
 ---
 
-## ⌨️ Hotkey
-**Ctrl + c**
-**Ctrl + Alt + Shift**
+## ⌨️ HOW TO USE ---
+STEP 1 --> **Ctrl + c**
+
+STEP 2 -->**Ctrl + Alt + Shift**
 
 Run the speak.py file > Select any text → Press Ctrl + c  → Press the hotkey → It will be spoken aloud
 
